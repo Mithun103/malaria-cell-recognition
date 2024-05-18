@@ -32,8 +32,8 @@ Evaluate the model with the testing data using probability prediction(uninfected
 Fit the model and predict the sample input.
 ## PROGRAM
 ```
-NAME: DHIVYAPRIYA. R
-REGISTER NO.: 212222230032
+NAME: MITHUN MS
+REGISTER NO.: 212222240067
 ```
 ```
 import tensorflow as tf
